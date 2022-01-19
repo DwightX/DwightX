@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Dwightx&theme=highcontrast" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwightx&theme=highcontrast" />
 
 <!--
